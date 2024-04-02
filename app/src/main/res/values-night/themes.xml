@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUserApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/midnight</item>
+        <item name="colorOnPrimary">@color/cloud</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/midnight</item>
+        <item name="colorOnSecondary">@color/colorSubtitle</item>
+    </style>
+</resources>
