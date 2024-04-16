@@ -7,13 +7,13 @@
 <p><b>Base Url</b>: "https://api.github.com/"</p>
 
 <p align="center">
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/08b08816-93fc-4781-be11-6bd39cab87cc" width=200 height=300>
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/cefb2524-8872-48fc-b396-91bc2de6a704" width=200 height=300>
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/c973015c-50bb-4e5c-89ba-59221b92a1c2" width=200 height=300>
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/78aa2401-e8e7-40b7-916f-6bf304ae6959" width=200 height=300>
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/5fec51e3-b0c9-4832-9894-0f4c70830a31" width=200 height=300>
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/bc309fc5-766c-4baa-b3e5-767b243a721d" width=200 height=300>
-  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/20f3a759-b2d9-4984-ba27-25d70605fc2c" width=200 height=300>
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/08b08816-93fc-4781-be11-6bd39cab87cc" width=200 height=300 alt="Splash screen of GitHub User App">
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/cefb2524-8872-48fc-b396-91bc2de6a704" width=200 height=300 alt="Search User">
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/c973015c-50bb-4e5c-89ba-59221b92a1c2" width=200 height=300 alt="Detail User">
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/78aa2401-e8e7-40b7-916f-6bf304ae6959" width=200 height=300 alt="Setting">
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/5fec51e3-b0c9-4832-9894-0f4c70830a31" width=200 height=300 alt="Search User Dark Mode">
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/bc309fc5-766c-4baa-b3e5-767b243a721d" width=200 height=300 alt="Favorite User Dark Mode">
+  <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/20f3a759-b2d9-4984-ba27-25d70605fc2c" width=200 height=300 alt="Detail User Dark Mode">
 </p>
 
 <h2>Features</h2>
