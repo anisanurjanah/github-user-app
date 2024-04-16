@@ -33,9 +33,8 @@
 
 <h2>Let's connect!</h2>
 <a href="https://www.instagram.com/nissxxse/">
-  <img src="https://img.shields.io/badge/Instagram-black?&logo=instagram&logoColor=white" height=25 alt="Anisa's Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-@nissxxse-orange?&logo=instagram&logoColor=white" height=25 alt="Anisa's Instagram" />
 </a>
-
 <a href="https://www.linkedin.com/in/anisanurjanah/">
-  <img src="https://img.shields.io/badge/LinkedIn-black?&logo=linkedin&logoColor=white" height=25 alt="Anisa's LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Anisa%20Nurjanah-orange?&logo=linkedin&logoColor=white" height=25 alt="Anisa's LinkedIn" />
 </a>
