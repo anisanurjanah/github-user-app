@@ -1,15 +1,13 @@
 <h1>GitHub User App</h1>
 
+GitHub User app is a mobile application that allows users to easily browse and discover GitHub user profiles from their devices. With a user-friendly and intuitive interface, the app allows users to view profiles, followers and following, as well as add users to favorites quickly and efficiently. 
 <p><b>Base Url</b>: "https://api.github.com/"</p>
 
-<img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/0f8535f9-0f34-49b0-a325-28968c57976b" width=160 height=220>
-<img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/cefb2524-8872-48fc-b396-91bc2de6a704" width=160 height=220>
 <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/c973015c-50bb-4e5c-89ba-59221b92a1c2" width=160 height=220>
+<img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/8988a634-959c-4c85-81c7-99f8b451eab0" width=160 height=220>
+<img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/cefb2524-8872-48fc-b396-91bc2de6a704" width=160 height=220>
+<img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/20f3a759-b2d9-4984-ba27-25d70605fc2c" width=160 height=220>
 <img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/ee9cb7e7-c18a-47c0-9e09-a77ab314e191" width=160 height=220>
-<img src="https://github.com/anisanurjanah/GitHub-User-App/assets/74089025/846abb17-9faf-4771-a15c-8d3b66e83d74" width=160 height=220>
-
-<h1>About</h1>
-The GitHub User app is a mobile application that allows users to easily browse and discover GitHub user profiles from their devices. With a user-friendly and intuitive interface, the app allows users to view profiles, followers and following, as well as add users to favorites quickly and efficiently. 
 
 <h1>Features</h1>
 🤵 <b>Profile Browsing</b>: Find and browse GitHub profiles of other users easily, view information about them such as name, bio, followers and following them.</br>
